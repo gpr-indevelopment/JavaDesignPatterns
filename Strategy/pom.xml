@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>AspectJDemo</artifactId>
+	<artifactId>StrategyDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AspectJDemo</name>
+	<name>StrategyDemo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -40,16 +40,6 @@
 					<artifactId>junit-vintage-engine</artifactId>
 				</exclusion>
 			</exclusions>
-		</dependency>
-		<dependency>
-			<groupId>org.aspectj</groupId>
-			<artifactId>aspectjrt</artifactId>
-			<version>1.9.4</version>
-		</dependency>
-		<dependency>
-			<groupId>org.aspectj</groupId>
-			<artifactId>aspectjweaver</artifactId>
-			<version>1.9.4</version>
 		</dependency>
 	</dependencies>
 

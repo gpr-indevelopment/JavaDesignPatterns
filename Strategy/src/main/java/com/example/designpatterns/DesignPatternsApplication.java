@@ -1,13 +1,13 @@
-package com.example.AspectJDemo;
+package com.example.designpatterns;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AspectJDemoApplication {
+public class DesignPatternsApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(AspectJDemoApplication.class, args);
+		SpringApplication.run(DesignPatternsApplication.class, args);
 	}
 }
